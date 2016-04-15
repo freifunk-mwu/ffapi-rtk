@@ -1,0 +1,66 @@
+{
+  "name": "Freifunk Rheingau",
+  "url": "https://www.freifunk-rheingau.de",
+  "location": {
+    "city": "Rheingau",
+    "country": "DE",
+    "lat": 50.027593,
+    "lon": 8.119068
+  },
+  "contact": {
+    "email": "kontakt@freifunk-rheingau.de",
+    "irc": "ircs://irc.hackint.net/ffmwu",
+    "facebook": "https://facebook.com/FreifunkRheingau",
+    "twitter": "@FFRheingau"
+  },
+  "metacommunity": "Freifunk MWU",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2016-04-15T12:10:50.076Z"
+  },
+  "timeline": [
+    {
+      "description": "Freifunk Rheingau gegründet!",
+      "timestamp": "2016-01-01",
+      "url": "https://www.freifunk-rheingau.de/freifunk-rheingau-gegruendet/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Freifunk Rheingau Blog",
+      "category": "blog",
+      "type": "rss",
+      "url": "https://www.freifunk-rheingau.de/feed/"
+    },
+    {
+      "name": "Freifunk Rheingau Kalender",
+      "category": "ics",
+      "type": "ics",
+      "url": "https://www.freifunk-rheingau.de/events/?ical=1&tribe_display=list"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "http://firmware.freifunk-rheingau.de",
+      "vpnaccess": "mail"
+    },
+    "routing": [
+      "802.11s",
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.12"
+}

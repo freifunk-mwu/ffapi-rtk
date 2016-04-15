@@ -1,2 +1,1 @@
-# ffapi-rheingau
-Freifunk API Files Rheingau
+# Freifunk API Files Wiesbaden
