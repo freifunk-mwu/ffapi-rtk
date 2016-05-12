@@ -1,5 +1,5 @@
 {
-  "name": "Freifunk Rheingau",
+  "name": "Freifunk Rheingau-Taunus",
   "url": "https://www.freifunk-rheingau.de",
   "location": {
     "city": "Eltville",
@@ -10,8 +10,8 @@
   "contact": {
     "email": "kontakt@freifunk-rheingau.de",
     "irc": "ircs://irc.hackint.net/ffmwu",
-    "facebook": "https://facebook.com/FreifunkRheingau",
-    "twitter": "@FFRheingau"
+    "facebook": "https://facebook.com/FreifunkRT",
+    "twitter": "@FreieNetzeRT"
   },
   "metacommunity": "Freifunk MWU",
   "state": {
@@ -29,17 +29,22 @@
       "description": "Freifunk Rheingau gegründet!",
       "timestamp": "2016-01-01",
       "url": "https://www.freifunk-rheingau.de/freifunk-rheingau-gegruendet/"
+    },
+    {
+      "description": "Erstes öffentliches Treffen und Umbenennung in Freifunk Rheingau-Taunus!",
+      "timestamp": "2016-05-11",
+      "url": "https://www.freifunk-rheingau.de/umbenennung-in-freifunk-rheingau-taunus/"
     }
   ],
   "feeds": [
     {
-      "name": "Freifunk Rheingau Blog",
+      "name": "Freifunk Rheingau-Taunus Blog",
       "category": "blog",
       "type": "rss",
       "url": "https://www.freifunk-rheingau.de/feed/"
     },
     {
-      "name": "Freifunk Rheingau Kalender",
+      "name": "Freifunk Rheingau-Taunus Kalender",
       "category": "ics",
       "type": "ics",
       "url": "https://www.freifunk-rheingau.de/events/?ical=1&tribe_display=list"
