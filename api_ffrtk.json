@@ -8,10 +8,10 @@
     "lon": 8.119068
   },
   "contact": {
-    "email": "kontakt@freifunk-rheingau.de",
+    "email": "kontakt@freifunk-rtk.de",
     "irc": "ircs://irc.hackint.net/ffmwu",
-    "facebook": "https://facebook.com/FreifunkRT",
-    "twitter": "@FreieNetzeRT"
+    "facebook": "https://www.facebook.com/FreifunkRTK",
+    "twitter": "@FreifunkRTK"
   },
   "metacommunity": "Freifunk MWU",
   "state": {
@@ -22,7 +22,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-04-15T12:10:50.076Z"
+    "lastchange": "2016-11-22T11:00:00.000Z"
   },
   "timeline": [
     {
@@ -41,19 +41,19 @@
       "name": "Freifunk Rheingau-Taunus Blog",
       "category": "blog",
       "type": "rss",
-      "url": "https://www.freifunk-rheingau.de/feed/"
+      "url": "https://www.freifunk-rtk.de/feed/"
     },
     {
       "name": "Freifunk Rheingau-Taunus Kalender",
       "category": "ics",
       "type": "ics",
-      "url": "https://www.freifunk-rheingau.de/events/?ical=1&tribe_display=list"
+      "url": "https://www.freifunk-rtk.de/events/?ical=1&tribe_display=list"
     }
   ],
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://firmware.freifunk-rheingau.de",
+      "url": "http://firmware.freifunk-rtk.de",
       "vpnaccess": "mail"
     },
     "routing": [
