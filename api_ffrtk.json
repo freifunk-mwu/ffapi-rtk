@@ -10,6 +10,7 @@
   "contact": {
     "email": "kontakt@freifunk-rtk.de",
     "irc": "ircs://irc.hackint.net/ffmwu",
+    "ml": "rheingau-taunus@freifunk.net",
     "facebook": "https://www.facebook.com/FreifunkRTK",
     "twitter": "@FreifunkRTK"
   },
@@ -19,19 +20,20 @@
       "infrastructure/backbone",
       "Public Free Wifi",
       "Social Community Building",
-      "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-11-22T11:00:00.000Z"
+    "lastchange": "2020-11-26T12:17:08.031456",
+    "description": "Wir erfreuen uns an 165 Knoten und 268 Clients",
+    "nodes": 165
   },
   "timeline": [
     {
-      "description": "Freifunk Rheingau gegründet!",
+      "description": "Freifunk Rheingau gegr\u00fcndet!",
       "timestamp": "2016-01-01",
       "url": "https://www.freifunk-rheingau.de/freifunk-rheingau-gegruendet/"
     },
     {
-      "description": "Erstes öffentliches Treffen und Umbenennung in Freifunk Rheingau-Taunus!",
+      "description": "Erstes \u00f6ffentliches Treffen und Umbenennung in Freifunk Rheingau-Taunus!",
       "timestamp": "2016-05-11",
       "url": "https://www.freifunk-rheingau.de/umbenennung-in-freifunk-rheingau-taunus/"
     }
@@ -53,7 +55,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://firmware.freifunk-rtk.de",
+      "url": "https://wizard.freifunk-mwu.de",
       "vpnaccess": "mail"
     },
     "routing": [
@@ -67,5 +69,6 @@
       "vpnnational"
     ]
   },
-  "api": "0.4.12"
+  "api": "0.4.14"
 }
+
